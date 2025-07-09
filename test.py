@@ -5,3 +5,4 @@ print('samples = {}'.format(len(f)))
 print('sample rate = {}'.format(f.samplerate))
 print('seconds = {}'.format(len(f) / f.samplerate))
 
+import os
